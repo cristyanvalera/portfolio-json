@@ -121,12 +121,117 @@
     ],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "HTML",
+            "level": "Proficient",
+            "keywords": [
+                "Semantic HTML",
+                "Forms",
+                "Tables"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Intermediate",
+            "keywords": [
+                "Flexbox",
+                "Grid",
+                "Animations"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Begginer",
+            "keywords": [
+                "Utility class"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Advanced",
+            "keywords": [
+                "React",
+                "Vue",
+                "Astro"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Advanced",
+            "keywords": [ ]
+        },
+        {
+            "name": "PHP",
+            "level": "Beginner",
+            "keywords": [
+                "Laravel",
+                "Symfony",
+                "WordPress"
+            ]
+        },
+        {
+            "name": "Laravel",
+            "level": "Beginner",
+            "keywords": [
+                "Eloquent ORM"
+            ]
+        },
+        {
+            "name": "Livewire",
+            "level": "Beginner",
+            "keywords": [ ]
+        },
+        {
+            "name": "Python",
             "level": "Master",
             "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "Django",
+                "Flask",
+                "Web scraping"
+            ]
+        },
+        {
+            "name": "Ruby",
+            "level": "Intermediate",
+            "keywords": [
+                "Ruby on Rails",
+                "Sinatra",
+                "Jekyll"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Proficient",
+            "keywords": [
+                "Angular",
+                "NestJS",
+                "TypeORM"
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Advanced",
+            "keywords": [
+                "Spring",
+                "Hibernate",
+                "JSF"
+            ]
+        },
+        {
+            "name": "C#",
+            "level": "Beginner",
+            "keywords": [
+                "ASP.NET",
+                "Blazor",
+                "Entity Framework"
+            ]
+        },
+        {
+            "name": "Go",
+            "level": "Proficient",
+            "keywords": [
+                "Gin",
+                "Beego",
+                "Echo"
             ]
         }
     ],
