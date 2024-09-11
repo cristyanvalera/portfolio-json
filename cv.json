@@ -45,12 +45,12 @@
             ]
         },
         {
-            "name": "Banco Digital de los Trabajadores",
-            "position": "Supervisor de oficina",
-            "url": "https://www.bdt.com.ve/",
-            "startDate": "2012-08-30",
-            "endDate": null,
-            "summary": "Supervisar las transacciones diarias, incluyendo depósitos, retiros y transferencias. Garantizar el cumplimiento de las políticas y procedimientos bancarios. Realizar conciliaciones bancarias y auditorías internas. Manejar el efectivo y otros valores de la sucursal.",
+            "name": "Farmatodo",
+            "position": "Asistente piso de venta",
+            "url": "https://www.farmatodo.com.ve/",
+            "startDate": "2008-06-01",
+            "endDate": "2012-08-30",
+            "summary": "Asistente piso de venta 4 hrs",
             "highlights": [
                 "Started the company"
             ]
@@ -329,7 +329,7 @@
         },
         {
             "name": "fitness-tracker",
-            "isActive": false,
+            "isActive": true,
             "description": "Aplicación para llevar un seguimiento de tu actividad física",
             "highlights": [
                 "Establece tus propios objetivos",
