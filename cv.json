@@ -258,14 +258,104 @@
     ],
     "projects": [
         {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
+            "name": "mars.codes",
+            "isActive": true,
+            "description": "Historia interactiva con retos de programación para viajar a Marte",
             "highlights": [
-                "Won award at AIHacks 2016"
+                "Elige tu propia aventura",
+                "En desarrollo"
             ],
-            "url": "https://project.com/"
+            "url": "https://mars.codes"
+        },
+        {
+            "name": "bookworm",
+            "isActive": false,
+            "description": "Red social para amantes de los libros, con recomendaciones personalizadas",
+            "highlights": [
+                "Encuentra tu próximo libro favorito",
+                "Grupos de lectura online"
+            ],
+            "url": "https://bookworm.app"
+        },
+        {
+            "name": "codecademy-clone",
+            "isActive": true,
+            "description": "Plataforma de aprendizaje de programación interactiva y gratuita",
+            "highlights": [
+                "Cursos para todos los niveles",
+                "Proyectos prácticos"
+            ],
+            "url": "https://codecademy-clone.org"
+        },
+        {
+            "name": "plant-care",
+            "isActive": false,
+            "description": "Aplicación para cuidar tus plantas, con recordatorios y consejos",
+            "highlights": [
+                "Identifica tus plantas",
+                "Crea tu propio jardín virtual"
+            ],
+            "url": "https://plant-care.app"
+        },
+        {
+            "name": "recipe-finder",
+            "isActive": true,
+            "description": "Motor de búsqueda de recetas con filtros por ingredientes y dietas",
+            "highlights": [
+                "Descubre nuevas recetas cada día",
+                "Planifica tus comidas semanales"
+            ],
+            "url": "https://recipe-finder.com"
+        },
+        {
+            "name": "notion-clone",
+            "isActive": false,
+            "description": "Herramienta de productividad para organizar notas, tareas y proyectos",
+            "highlights": [
+                "Personaliza tu espacio de trabajo",
+                "Colabora con tu equipo"
+            ],
+            "url": "https://notion-clone.io"
+        },
+        {
+            "name": "podcasts-r-us",
+            "isActive": true,
+            "description": "Directorio de podcasts con recomendaciones personalizadas",
+            "highlights": [
+                "Descubre nuevos podcasts",
+                "Crea tus propias listas de reproducción"
+            ],
+            "url": "https://podcasts-r-us.com"
+        },
+        {
+            "name": "fitness-tracker",
+            "isActive": false,
+            "description": "Aplicación para llevar un seguimiento de tu actividad física",
+            "highlights": [
+                "Establece tus propios objetivos",
+                "Conéctate con dispositivos wearables"
+            ],
+            "url": "https://fitness-tracker.app"
+        },
+        {
+            "name": "language-learner",
+            "isActive": true,
+            "description": "Plataforma para aprender idiomas con ejercicios interactivos",
+            "highlights": [
+                "Amplía tu vocabulario",
+                "Mejora tu pronunciación"
+            ],
+            "url": "https://language-learner.org"
+        },
+        {
+            "name": "weather-app",
+            "isActive": false,
+            "description": "Aplicación meteorológica con pronósticos detallados",
+            "highlights": [
+                "Alertas de mal tiempo",
+                "Radios de radar interactivos"
+            ],
+            "url": "https://weather-app.com"
         }
     ]
 }
