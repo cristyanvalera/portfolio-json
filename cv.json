@@ -6,7 +6,7 @@
         "email": "cristyanvalera@gmail.com",
         "phone": "(912) 555-4321",
         "url": "https://johndoe.com",
-        "summary": "Aunque mi experiencia profesional se centra en el sector bancario, he cultivado una pasión por el desarrollo web. Mi proyecto personal, una aplicación web de gestión de finanzas personales construida con PHP, Laravel y Vue.js, demuestra mi capacidad para diseñar interfaces intuitivas y crear bases de datos escalables. Busco aplicar estas habilidades en un puesto de desarrollador full-stack para contribuir a la creación de productos digitales innovadores.",
+        "summary": "A pesar de mi experiencia en el sector bancario, tengo una gran pasión por el desarrollo web. He creado una aplicación de gestión financiera con PHP, Laravel y Vue.js, que muestra mi habilidad para diseñar interfaces y bases de datos escalables. Busco un puesto como desarrollador full-stack para contribuir a la creación de productos digitales innovadores.",
         "location": {
             "address": "2712 Broadway St",
             "postalCode": "CA 94115",
@@ -258,36 +258,6 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
-            "isActive": true,
-            "description": "Historia interactiva con retos de programación para viajar a Marte",
-            "highlights": [
-                "Elige tu propia aventura",
-                "En desarrollo"
-            ],
-            "url": "https://mars.codes"
-        },
-        {
-            "name": "bookworm",
-            "isActive": false,
-            "description": "Red social para amantes de los libros, con recomendaciones personalizadas",
-            "highlights": [
-                "Encuentra tu próximo libro favorito",
-                "Grupos de lectura online"
-            ],
-            "url": "https://bookworm.app"
-        },
-        {
-            "name": "codecademy-clone",
-            "isActive": true,
-            "description": "Plataforma de aprendizaje de programación interactiva y gratuita",
-            "highlights": [
-                "Cursos para todos los niveles",
-                "Proyectos prácticos"
-            ],
-            "url": "https://codecademy-clone.org"
-        },
-        {
             "name": "plant-care",
             "isActive": false,
             "description": "Aplicación para cuidar tus plantas, con recordatorios y consejos",
@@ -306,26 +276,6 @@
                 "Planifica tus comidas semanales"
             ],
             "url": "https://recipe-finder.com"
-        },
-        {
-            "name": "notion-clone",
-            "isActive": false,
-            "description": "Herramienta de productividad para organizar notas, tareas y proyectos",
-            "highlights": [
-                "Personaliza tu espacio de trabajo",
-                "Colabora con tu equipo"
-            ],
-            "url": "https://notion-clone.io"
-        },
-        {
-            "name": "podcasts-r-us",
-            "isActive": true,
-            "description": "Directorio de podcasts con recomendaciones personalizadas",
-            "highlights": [
-                "Descubre nuevos podcasts",
-                "Crea tus propias listas de reproducción"
-            ],
-            "url": "https://podcasts-r-us.com"
         },
         {
             "name": "fitness-tracker",
