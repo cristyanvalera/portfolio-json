@@ -67,8 +67,7 @@ const profileInfo = profiles.map(({ network, url }) => {
 <ninja-keys
     data-info={JSON.stringify(profileInfo)}
     placeholder="Buscar comando"
-    hideBreadcrumbs
-></ninja-keys>
+    hideBreadcrumbs></ninja-keys>
 
 <script>
     import "ninja-keys";
@@ -114,7 +113,7 @@ const profileInfo = profiles.map(({ network, url }) => {
     }
 
     @keyframes fadeIn {
-        from: {
+        from {
             opacity: 0;
         }
         to {
